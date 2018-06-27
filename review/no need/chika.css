@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.apple{
+    font-family: "Monotype Corsiva";
+    font-size: 50px;
+}
+
+.banana{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+    
+.orange{
+    margin-top: 100px;
+}
+
+
+.pine{
+    display: inline;
+    padding-right: 50px;
+}
+.cherry{display: inline;
+    
+}
+
+.melon{
+    display: inline;
+    padding-right: 50px;
+}

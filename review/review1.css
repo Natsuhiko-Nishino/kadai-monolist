@@ -1,0 +1,18 @@
+@charset "UTF-8";
+ header{
+    background-color:#66FFFF;
+    width:1000px;
+    height:100px;
+}
+
+main{
+    background-color:#33FF66;
+    width:1000px;
+    height:400px;
+}
+
+footer{
+    background-color:#CC66FF;
+    width:1000px;
+    height:100px;
+}
